@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ClockLibrary")(type "KiCad")(uri "${KIPRJMOD}/ClockLibrary.kicad_sym")(options "")(descr ""))
+)
