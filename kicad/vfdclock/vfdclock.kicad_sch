@@ -5777,7 +5777,7 @@
 		)
 		(uuid "289f26ff-3ee1-4630-9df6-7ab13b08c5d7")
 	)
-	(text "SW4とSW5は連動。２段階の明るさ調節用"
+	(text "SW4は表示/非表示の切り替え\nSW5は２段階の明るさ調節用"
 		(exclude_from_sim no)
 		(at 62.738 111.252 0)
 		(effects
