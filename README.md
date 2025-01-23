@@ -8,8 +8,13 @@ Rev.1.0
 ![rev10](/docs/images/digit-vfd-clock07.jpg) 
 
 ## 3Dモデル
+
 Rev.1.1
 ![rev11](/docs/images/vfdclock.jpg) 
+
+## 回路図
+
+- [Rev.1.1 PDF](/docs/vfdclock_sch-rev11.pdf) 
 
 
 ## 補足情報
