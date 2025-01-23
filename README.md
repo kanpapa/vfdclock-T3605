@@ -7,6 +7,11 @@
 Rev.1.0
 ![rev10](/docs/images/digit-vfd-clock07.jpg) 
 
+## 3Dモデル
+Rev.1.1
+![rev11](/docs/images/vfdclock.jpg) 
+
+
 ## 補足情報
 
 - 経緯は以下のサイトをご覧ください。
